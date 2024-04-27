@@ -1,1 +1,1 @@
-# Dynamic-Image-Gallery-
+# Dynamic Image Gallery
